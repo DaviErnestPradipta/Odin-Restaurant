@@ -42,19 +42,20 @@ export class Store {
 }
 
 export const storeItems = [
-    { title: 'Tōgeshita', location: '337-11 Togeshita, Nanae, Kameda District, Hokkaido 041-1102' },
-    { title: 'Marina Suehiro', location: '14-17 Suehirocho, Hakodate, Hokkaido 040-0053' },
-    { title: 'Tonkatsu Burger', location: 'The tastiest pork cutlet lathered with demiglace' },
-    { title: 'Lucky Cheese Burger', location: "Cheese three ways, the way it's done in Hakodate" },
-    { title: 'Special Bacon and Egg Burger', location: 'The classic combo is here for the safe and sound' },
-    { title: 'Mount Hakodate Burger', location: '(Almost) as tall as the mountain itself' },
-    { title: 'Hokkaido Genghis Khan Burger', location: 'Enjoy the taste of Mongolia from the Hakodate Bay' },
-    { title: 'THE Futoccho Burger', location: 'Uphill challenge to climb, even more so to devour' },
-    { title: 'Hakodate Snow Burger', location: 'The most beautiful burger for the most beautiful town' },
-    { title: 'Original Curry', location: 'Hearthy and filling with the taste of home' },
-    { title: 'Chinese Chicken Curry', location: 'The tastiest Chinese Chicken with the mouth-melting curry' },
-    { title: 'Original LuckyPot', location: 'Lucky charm in a mug, potato with cheese for the champions' },
-    { title: 'Chinese Chicken Omurice', location: 'Fried rice, omelette, Chinese Chicken, perfection' },
-    { title: 'Chinese Chicken Yakisoba', location: 'Piping hot with the most delicious noodles and Chinese Chicken' },
-    { title: 'Silky Soft', location: 'Depth of flavor only possible from local Hokkaido milk' }
+    { title: 'Tōgeshita', location: '337-11 Togeshita, Nanae, Kameda District, Hokkaidō 041-1102' },
+    { title: 'Marina-Suehiro', location: '14-17 Suehiro-chō, Hakodate, Hokkaidō 040-0053' },
+    { title: 'Tokura', location: '30-1 Tokura-chō, Hakodate, Hokkaidō 042-0953' },
+    { title: 'Shōwa', location: '2-Chōme-12-17 Shōwa, Hakodate, Hokkaidō 041-0812' },
+    { title: 'Mori-chō-Akaigawa', location: '125 Akaigawa, Mori, Kayabe District, Hokkaidō 049-2142' },
+    { title: 'Esashi Entrance', location: '1252-1 Miwa, Assabu, Hiyama District, Hokkaidō 043-1117' },
+    { title: 'Hondōri', location: '4 Chome-17-32 Hondōri, Hakodate, Hokkaidō 041-0851' },
+    { title: 'Hokuto-Inari', location: '1 Chome-6-4 Inari, Hokuto, Hokkaidō 049-0161' },
+    { title: 'Hakodate Station', location: 'Wakamastu-chō-8-8-2, Hakodate, Hokkaidō 040-0063' },
+    { title: 'Mihara', location: '2 Chome-14-3 Mihara, Hakodate, Hokkaidō 041-0806' },
+    { title: 'Port-Hokkaido University', location: '3 Chome-18-28 Minato-chō, Hakodate, Hokkaidō 041-0821' },
+    { title: 'Goryōkaku Park', location: '30-14 Goryōkaku-chō, Hakodate, Hokkaidō 040-0001' },
+    { title: 'Matsukage', location: '22-6 Matsukage-chō, Hakodate, Hokkaidō 040-0003' },
+    { title: 'Hitomi', location: '24-15 Hitomi-chō, Hakodate, Hokkaidō 040-0005' },
+    { title: 'Honchō', location: '4-18 Honchō, Hakodate, Hokkaidō 040-0011' },
+    { title: 'Jūjigai Ginza', location: '8-11 Suehiro-chō, Hakodate, Hokkaidō 040-0053'}
 ];
