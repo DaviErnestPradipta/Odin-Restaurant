@@ -23,6 +23,7 @@ button {
 }
 
 button:hover, 
+.home-item:hover,
 .menu-item:hover,
 .store-item:hover {
     background-color: rgb(250, 250, 100);
@@ -34,6 +35,10 @@ button:hover,
     align-items: center;
 }
 
+.home-container {
+    display: flex;
+}
+
 .menu-container,
 .store-container {
     display: grid;
@@ -42,6 +47,7 @@ button:hover,
     gap: 5px;
 }
 
+.home-item,
 .menu-item,
 .store-item {
     padding: 15px;
